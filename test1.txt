@@ -1,1 +1,1 @@
-cretae test1 file
+cretae test1.txt file
